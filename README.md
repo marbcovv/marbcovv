@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
- <img src url="https://g-lyfe-api.vercel.app/api/life.gif?user=marbcovv&color=FF8DA1">
+ <img src="https://g-lyfe-api.vercel.app/api/life.gif?user=marbcovv&color=FF8DA1">
 </p>
