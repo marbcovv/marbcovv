@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-https://g-lyfe-api.vercel.app/api/life.gif?user=marbcovv&color=FF8DA1
+<p>
+ <img src url="https://g-lyfe-api.vercel.app/api/life.gif?user=marbcovv&color=FF8DA1">
+</p>
