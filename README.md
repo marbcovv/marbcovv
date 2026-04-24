@@ -1,4 +1,4 @@
-# Hola! Soy [Mar!!] 🌸
+# Hola! Soy Mar!! 🌸
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/assets/rainbow_static.gif" width="100%" />
 </p>
@@ -6,7 +6,7 @@
 ## ✨ Un poco sobre mí...
 - 🎀 Estoy enfocada en **Desarrollo Frontend / UI UX**
 - 🌸 Me encanta el código limpio y la estética minimalista
-- 🐰 Actualmente aprendiendo **[Java]**
+- 🐰 Actualmente aprendiendo **JavaScript:**
 - 💌 Contacto: **marlenbylzdes@gmail.com**
 
 ---
