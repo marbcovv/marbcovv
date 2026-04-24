@@ -25,10 +25,10 @@
 ## 📊 Mis Estadísticas (Pink Edition)
 <p align="center">
   <!-- Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=db7093&icon_color=db7093&text_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marbcovv&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=db7093&icon_color=db7093&text_color=000000" />
   
   <!-- Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=db7093&text_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marbcovv&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=db7093&text_color=000000" />
 </p>
 
 ---
