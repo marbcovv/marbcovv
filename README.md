@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 Mis Estadísticas (Pink Edition)
+## 📊 Mis Estadísticas
 <p align="center">
   <!-- Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marbcovv&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=db7093&icon_color=db7093&text_color=000000" />
