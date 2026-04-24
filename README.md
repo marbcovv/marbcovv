@@ -1,6 +1,6 @@
 # Hola! Soy [Mar!!] 🌸
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=FFB6C1&height=150&section=header&text=Bienvenida%20a%20mi%20perfil%20✨&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/assets/rainbow_static.gif" width="100%" />
 </p>
 
 ## ✨ Un poco sobre mí...
